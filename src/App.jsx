@@ -7,7 +7,6 @@ import "./style/style.css"
 import OthersCards from "./components/OthersCards"
 import MusicBar from "./components/MusicBar"
 import { BrowserRouter, Routes, Route } from "react-router-dom"
-import AlbumDetail from "./components/AlbumDetail"
 
 function App() {
   return (
@@ -27,9 +26,6 @@ function App() {
                 </>
               }
             />
-
-            {/* Pagina dettaglio album */}
-            <Route path="/album/:id" element={<AlbumDetail />} />
           </Routes>
         </main>
 
