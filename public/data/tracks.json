@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+
+    "url": "/assets/images/1a.png"
+  },
+  {
+    "id": 2,
+
+    "url": "/assets/images/1b.png"
+  },
+  {
+    "id": 3,
+    "name": "prologo con Abuelo",
+    "url": "/assets/images/2a.png"
+  },
+  {
+    "id": 4,
+    "name": "The Wanderer",
+    "url": "/assets/images/2b.png"
+  },
+  {
+    "id": 5,
+    "name": "Michael Bublè & Carly Pearce",
+    "url": "/assets/images/2c.png"
+  },
+  {
+    "id": 6,
+    "name": "Stephan Moccio: The Zane Lowe Interview",
+    "url": "/assets/images/2d.png"
+  },
+  {
+    "id": 7,
+    "name": "Chart Spotlight: Julia Michaels",
+    "url": "/assets/images/2e.png"
+  }
+]
